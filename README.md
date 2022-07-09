@@ -1,5 +1,5 @@
 <h1>
-    Auto form Validation
+    Auto Form Validation
 </h1>
 <p>
     Auto form Validation allows you to validate html form using html dataset attributes instead of writing javascript.
